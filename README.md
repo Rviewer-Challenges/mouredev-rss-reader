@@ -1,4 +1,52 @@
-# RSS Reader
+# RSS reader
+
+Are you able to build the best RSS reader?
+Create a news aggregator focused on a single industry.
+
+Let's start at the beginning, what is RSS?
+RSS stands for Really Simple Syndication, and it is used to distribute information associated with web content in XML format.
+
+Let's think about the world of software development; so many news appear every day that we don't know how to consume such amount of information. Sometimes even where to start looking.
+
+The goal of this Challenge is to create the best news aggregator app in RSS format.
+
+> This is a challenge created by [MoureDev](https://www.twitch.tv/mouredev). He will review and give feedback to some proposed solutions from the community in one of his Twitch livestreams 😻 
+
+**Surprise us! 😉**
+
+## How it works?
+
+* First, decide the news industry that you like the most. For example: technology, software development, music, food, sport...
+* Decide the news sources that are going to be displayed (make sure they distribute their own RSS).
+* The user will not be able to add news sources.
+* The UI is up to you. You can rely on Apps like Feedly, Inoreader, Pocket...
+* The app must support light and dark mode.
+
+### Main screen
+* It will show the news list sorted by the most recent, mixing all the RSS sources.
+* For each news, it will show a card with photo, headline, source ans publication date.
+* The news list can be reloaded to show new news.
+* The news list will be updated automatically if the App/Web returns from running in the background.
+* The user can add or remove news to a bookmarks list.
+
+### Detail screen
+* Once the user select a news from the main list, it will navigate to the news page of the news source website, with the possibility of returning to the main list.
+* The user can add or remove news to a bookmarks list.
+
+### Bookmarks screen
+* It will behave like the main screen (with the option to navigate to the detail screen), but it will only show the news added to bookmarks in chronological order.
+* The user can remove news from the bookmarks list.
+
+### Settings menu
+* The user can set light or dark mode.
+* The user can enable/disable each source from a list of news sources available.
+* We must persist the options even if we leave the App.
+
+### Extra points (optional)
+* Here you rule! :-)
+* Are you able to show the detail of the news without the need to link to the news page of the news source website? prove it!
+* You can implement exclusive functionalities that make special sense in news sector you have selected.
+* Some more generic extra functionalities could be remembering which news have been read, logging in to persist the configuration remotely, sharing the news on networks...Surprise us!
 
 ## Technical requirements
 
