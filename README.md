@@ -12,6 +12,7 @@ such amount of information. Sometimes even where to start looking.
 
 The goal of this Challenge is to create the best news aggregator app in RSS format.
 
+![Brais Moure Challenge card](mouredev_rss_reader.png)
 > This is a challenge created by [MoureDev](https://www.twitch.tv/mouredev). He will review and give feedback to some
 > proposed solutions from the community in one of his Twitch livestreams 😻
 
