@@ -45,7 +45,7 @@ The goal of this Challenge is to create the best news aggregator app in RSS form
 ### Extra points (optional)
 * Here you rule! :-)
 * Are you able to show the detail of the news without the need to link to the news page of the news source website? prove it!
-* You can implement exclusive functionalities that make special sense in news sector you have selected.
+* You can implement exclusive functionalities that make special sense in news industry you have selected.
 * Some more generic extra functionalities could be remembering which news have been read, logging in to persist the configuration remotely, sharing the news on networks...Surprise us!
 
 ## Technical requirements
